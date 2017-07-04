@@ -10,6 +10,7 @@ namespace one
         static void Main(string[] args)
         {
             Console.WriteLine("try 1");
+            Console.WriteLine("try zero");
         }
     }
 }
